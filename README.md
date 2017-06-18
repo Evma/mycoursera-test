@@ -1,2 +1,2 @@
 # mycoursera-test
-Testrepository
+Test repository
